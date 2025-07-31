@@ -12,7 +12,7 @@ app = FastAPI()
 # Allow frontend call backend API
 app.add_middleware(
     CORSMiddleware,
-    allow_origin_regex="https://quicktarot.onrender.com/", # * for dev
+    allow_origins=["https://quicktarot.onrender.com"], # ["*"], # Uncomment for local testing
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
