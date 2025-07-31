@@ -9,10 +9,10 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
-# Allow frontend to call your API
+# Allow frontend call backend API
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # For dev only! Lock down in production
+    allow_origin_regex="https://quicktarot.onrender.com/", # * for dev
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
