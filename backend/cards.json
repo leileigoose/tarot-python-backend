@@ -1,0 +1,267 @@
+
+[
+    {
+        "card_no": 0,
+        "name": "The Fool", 
+        "orientation": "upright", 
+        "meaning": "beginnings, freedom, innocence, originality, adventure, idealism, spontaneity"
+    },
+    {
+        "card_no": 0,
+        "name": "The Fool", 
+        "orientation": "reversed", 
+        "meaning": "reckless, careless, distracted, naive, foolish, gullible, stale, dull"
+    },
+    {
+        "card_no": 1,
+        "name": "The Magician", 
+        "orientation": "upright", 
+        "meaning": "willpower, desire, being resourceful,, skill, ability, concentration, manifestation"
+    },
+    {
+        "card_no": 1,
+        "name": "The Magician", 
+        "orientation": "reversed", 
+        "meaning": "manipulation, cunning, trickery, wasted talent, illusion, deception"
+    },
+    {
+        "card_no": 2,
+        "name": "The High Priestess", 
+        "orientation": "upright", 
+        "meaning": "unconscious, intuition, mystery, spirituality, higher power, inner voice"
+    },
+    {
+        "card_no": 2,
+        "name": "The High Priestess", 
+        "orientation": "reversed", 
+        "meaning": "repressed intuition, hidden motives, superficiality, confusion, cognitive dissonance"
+    },
+    {
+        "card_no": 3,
+        "name": "The Empress", 
+        "orientation": "upright", 
+        "meaning": "divine feminine, sensuality, fertility, nurturing, creativity, beauty, abundance, nature"
+    },
+    {
+        "card_no": 3,
+        "name": "The Empress", 
+        "orientation": "reversed", 
+        "meaning": "insecurity, overbearing, negligence, smothering, lack of growth, lack of progress"
+    },
+    {
+        "card_no": 4,
+        "name": "The Emperor", 
+        "orientation": "upright", 
+        "meaning": "stability, structure, protection, authority, control, practicality, focus, discipline"
+    },
+    {
+        "card_no": 4,
+        "name": "The Emperor", 
+        "orientation": "reversed", 
+        "meaning": "tyrant, domineering, rigid, stubborn, lack of discipline, recklessness"
+    },
+    {
+        "card_no": 5,
+        "name": "The Hierophant", 
+        "orientation": "upright", 
+        "meaning": "tradition, social groups, conventionality, conformity, education, knowledge, beliefs"
+    },
+    {
+        "card_no": 5,
+        "name": "The Hierophant", 
+        "orientation": "reversed", 
+        "meaning": "rebellion, unconventionality, non-conformity, new methods, ignorance"
+    },
+    {
+        "card_no": 6,
+        "name": "The Lovers", 
+        "orientation": "upright", 
+        "meaning": "love, unions, partnerships, relationships, choices, romance, balance, unity"
+    },
+    {
+        "card_no": 6,
+        "name": "The Lovers", 
+        "orientation": "reversed", 
+        "meaning": "disharmony, imbalance, conflict, detachment, bad choices, indecision"
+    },
+    {
+        "card_no": 7,
+        "name": "The Charot", 
+        "orientation": "upright", 
+        "meaning": "success, ambition, determination, willpower, control, self-discipline, focus"
+    },
+    {
+        "card_no": 7,
+        "name": "The Charot", 
+        "orientation": "reversed", 
+        "meaning": "forceful, no direction, no control, powerless, aggression, obstacles"
+    },
+    {
+        "card_no": 8,
+        "name": "Strength", 
+        "orientation": "upright", 
+        "meaning": "courage, bravery, confidence, compassion, self-confidence, inner power"
+    },
+    {
+        "card_no": 8,
+        "name": "Strength", 
+        "orientation": "reversed", 
+        "meaning": "self-doubt, weakness, low confidence, inadequacy, cowardice, forcefulness"
+    },
+    {
+        "card_no": 9,
+        "name": "The Hermit", 
+        "orientation": "upright", 
+        "meaning": "self-reflection, introspection, contemplation, withdrawal, solitude, search for self"
+    },
+    {
+        "card_no": 9,
+        "name": "The Hermit", 
+        "orientation": "reversed", 
+        "meaning": "loneliness, isolation, recluse, being anti-social, rejection, returning to society"
+    },
+    {
+        "card_no": 10,
+        "name": "Wheel of Fortune", 
+        "orientation": "upright", 
+        "meaning": "change, cycles, fate, decisive moments, luck, fortune, unexpected events"
+    },
+    {
+        "card_no": 10,
+        "name": "Wheel of Fortune", 
+        "orientation": "reversed", 
+        "meaning": "bad luck, lack of control, clinging to control, unwelcome changes, delays"
+    },
+    {
+        "card_no": 11,
+        "name": "Justice", 
+        "orientation": "upright", 
+        "meaning": "justice, karma, consequence, accountability, law, truth, honesty, integrity, cause and effect"
+    },
+    {
+        "card_no": 11,
+        "name": "Justice", 
+        "orientation": "reversed", 
+        "meaning": "injustice, retribution, dishonesty, corruption, dishonesty, unfairness, avoiding accountability"
+    },
+    {
+        "card_no": 12,
+        "name": "The Hanged Man", 
+        "orientation": "upright", 
+        "meaning": "sacrifice, waiting, uncertainty, lack of direction, perspective, contemplation"
+    },
+    {
+        "card_no": 12,
+        "name": "The Hanged Man", 
+        "orientation": "reversed", 
+        "meaning": "stalling, disinterest, stagnation, avoiding sacrifice, standstill, apathy"
+    },
+    {
+        "card_no": 13,
+        "name": "Death", 
+        "orientation": "upright", 
+        "meaning": "Transformation, endings, change, transition, letting go, release"
+    },
+    {
+        "card_no": 13,
+        "name": "Death", 
+        "orientation": "reversed", 
+        "meaning": "fear of change, repeating negative patterns, resisting change, stagnancy, decay"
+    },
+    {
+        "card_no": 14,
+        "name": "Temperance", 
+        "orientation": "upright", 
+        "meaning": "balance, peace, patience, moderation, calm, tranquillity, harmony, serenity"
+    },
+    {
+        "card_no": 14,
+        "name": "Temperance", 
+        "orientation": "reversed", 
+        "meaning": "imbalance, excess, extremes, discord, recklessness, hastiness"
+    },
+    {
+        "card_no": 15,
+        "name": "The Devil", 
+        "orientation": "upright", 
+        "meaning": "oppression, addiction, obsession, dependency, excess, powerlessness, limitations"
+    },
+    {
+        "card_no": 15,
+        "name": "The Devil", 
+        "orientation": "reversed", 
+        "meaning": "powerlessness, limitations, independence, freedom, revelation, release, reclaiming power, reclaiming control"
+    },
+    {
+        "card_no": 16,
+        "name": "The Tower", 
+        "orientation": "upright", 
+        "meaning": "disaster, destruction, upheaval, trauma, sudden change, chaos"
+    },
+    {
+        "card_no": 16,
+        "name": "The Tower", 
+        "orientation": "reversed", 
+        "meaning": "averting disaster, delaying the inevitable, resisting change"
+    },
+    {
+        "card_no": 17,
+        "name": "The Star", 
+        "orientation": "upright", 
+        "meaning": "hope, inspiration, positivity, faith, renewal, healing, rejuvenation"
+    },
+    {
+        "card_no": 17,
+        "name": "The Star", 
+        "orientation": "reversed", 
+        "meaning": "hopelessness, despair, negativity, lack of faith, despondent"
+    },
+    {
+        "card_no": 18,
+        "name": "The Moon", 
+        "orientation": "upright", 
+        "meaning": "illusion, intuition, uncertainty, confusion, complexity, secrets, unconscious"
+    },
+    {
+        "card_no": 18,
+        "name": "The Moon", 
+        "orientation": "reversed", 
+        "meaning": "fear, deception, anxiety, misunderstanding, misinterpretation, clarity, understanding"
+    },
+    {
+        "card_no": 19,
+        "name": "The Sun", 
+        "orientation": "upright", 
+        "meaning": "happiness, success, optimism, vitality, joy, confidence, happiness, truth"
+    },
+    {
+        "card_no": 19,
+        "name": "The Sun", 
+        "orientation": "reversed", 
+        "meaning": "blocked happiness, excessive enthusiasm, pessimism, unrealistic expectations, conceitedness"
+    },
+    {
+        "card_no": 20,
+        "name": "Judgement", 
+        "orientation": "upright", 
+        "meaning": "self-evaluation, awakening, renewal, purpose, reflection, reckoning"
+    },
+    {
+        "card_no": 20,
+        "name": "Judgement", 
+        "orientation": "reversed", 
+        "meaning": "self-doubt, lack of self-awareness, failure to learn lessons, self-loathing"
+    },
+    {
+        "card_no": 21,
+        "name": "The World", 
+        "orientation": "upright", 
+        "meaning":  "completion, achievement, fulfilment, sense of belonging, wholeness, harmony"
+    },
+    {
+        "card_no": 21,
+        "name": "The World", 
+        "orientation": "reversed", 
+        "meaning": "lack of closure, lack of achievement, feeling incomplete, emptiness"
+    }
+]
